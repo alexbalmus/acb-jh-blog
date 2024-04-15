@@ -1,0 +1,26 @@
+{
+  "acbJhBlogApp": {
+    "blog": {
+      "home": {
+        "title": "Blogs",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Creeare o nouă entitate Blog",
+        "createOrEditLabel": "Creeare sau editare Blog",
+        "notFound": "No Blogs found"
+      },
+      "created": "A fost creată o nouă entitate Blog cu identificatorul {{ param }}",
+      "updated": "Blog cu identificatorul {{ param }} a fost actualizată",
+      "deleted": "Blog cu identificatorul {{ param }} a fost ștearsă",
+      "delete": {
+        "question": "Sunteți sigur că doriți să ștergeți Blog {{ id }}?"
+      },
+      "detail": {
+        "title": "Blog"
+      },
+      "id": "ID",
+      "name": "Name",
+      "handle": "Handle",
+      "user": "User"
+    }
+  }
+}
