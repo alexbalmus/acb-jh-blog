@@ -1,5 +1,7 @@
 # acbJhBlog
 
+Adapted from: https://github.com/mraible/jhipster8-demo 
+
 This application was generated using JHipster 8.2.1, you can find documentation and help at [https://www.jhipster.tech/documentation-archive/v8.2.1](https://www.jhipster.tech/documentation-archive/v8.2.1).
 
 ## Project Structure
